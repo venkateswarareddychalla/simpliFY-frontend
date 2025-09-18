@@ -1,4 +1,4 @@
-# User Profiles Frontend
+# SimpliFY User Profiles Frontend Assignment
 
 A modern React application for displaying and managing user profiles with beautiful avatars.
 
